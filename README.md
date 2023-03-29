@@ -17,3 +17,6 @@ sudo apt install default-jdk
 $ uname -m
 x86_64
 ```
+
+## Tutorials
+[officials](https://docs.oracle.com/en/java/javase/20/index.html)
